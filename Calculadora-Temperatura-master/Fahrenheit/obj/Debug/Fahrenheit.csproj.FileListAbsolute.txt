@@ -1,0 +1,10 @@
+G:\DS\TP\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.csprojAssemblyReference.cache
+G:\DS\TP\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.Form1.resources
+G:\DS\TP\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.Properties.Resources.resources
+G:\DS\TP\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.csproj.GenerateResource.cache
+G:\DS\TP\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.csproj.CoreCompileInputs.cache
+G:\DS\TP\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\bin\Debug\Fahrenheit.exe.config
+G:\DS\TP\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\bin\Debug\Fahrenheit.exe
+G:\DS\TP\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\bin\Debug\Fahrenheit.pdb
+G:\DS\TP\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.exe
+G:\DS\TP\TP-Aula8 - Fahrenheit\Fahrenheit\Fahrenheit\obj\Debug\Fahrenheit.pdb
